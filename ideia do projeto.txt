@@ -1,0 +1,22 @@
+fazer um jogo sobre cortar a grama com a paleta de cores do gameboy
+
+"você é um recruta e precisa cortar a grama de forma eficiente pra não desmaiar de exaustão e"
+"ao mesmo tempo não demonstrar cansaço aos seus superiores"
+
+graficos necessarios:
+	recruta e tesoura - FEITO
+	oficial de costas,frente e raivoso
+	grama FEITO
+	1 campo
+
+
+3 mecanicas trabalhando juntas:
+	*barra de estamina QUASE FEITO
+	*cone de visão do oficial
+	*barra de preguiçoso
+	a grama vai ser um dicionario de 10-15 itens
+a movimentação é em grid como em um jogo de xadrez
+
+a grama vai ser apagada e o jogador tem que ir pra proxima grama
+
+tera 3 campos pra cortar a grama aonde a quantidade de grama é maior a cada estágio

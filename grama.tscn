@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://b7su44meymaat"]
+
+[ext_resource type="Texture2D" uid="uid://v6bqaid5b6cr" path="res://grama.png" id="1_81dqm"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(0, -8)
+texture = ExtResource("1_81dqm")
+hframes = 3
